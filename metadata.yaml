@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '39520'
     url: http://www.gutenberg.org/2009/agents/39520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40164#History-of-the-Opera-from-its-Origin-in-Italy-to-the-present-TimeWith-Anecdotes-of-the-Most-C_
 gutenberg_issued: '2012-07-08'
 gutenberg_type: Text
 identifiers:
